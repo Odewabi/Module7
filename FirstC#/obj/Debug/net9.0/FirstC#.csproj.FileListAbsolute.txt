@@ -1,0 +1,14 @@
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/bin/Debug/net9.0/FirstC#
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/bin/Debug/net9.0/FirstC#.deps.json
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/bin/Debug/net9.0/FirstC#.runtimeconfig.json
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/bin/Debug/net9.0/FirstC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/bin/Debug/net9.0/FirstC#.pdb
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.AssemblyInfoInputs.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.AssemblyInfo.cs
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.csproj.CoreCompileInputs.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/refint/FirstC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.pdb
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/FirstC#.genruntimeconfig.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/FirstC#/obj/Debug/net9.0/ref/FirstC#.dll

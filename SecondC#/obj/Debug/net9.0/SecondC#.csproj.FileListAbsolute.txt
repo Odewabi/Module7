@@ -1,0 +1,14 @@
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.AssemblyInfoInputs.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.AssemblyInfo.cs
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.csproj.CoreCompileInputs.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/bin/Debug/net9.0/SecondC#
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/bin/Debug/net9.0/SecondC#.deps.json
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/bin/Debug/net9.0/SecondC#.runtimeconfig.json
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/bin/Debug/net9.0/SecondC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/bin/Debug/net9.0/SecondC#.pdb
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/refint/SecondC#.dll
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.pdb
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/SecondC#.genruntimeconfig.cache
+/Users/adetomi/Desktop/School/25/Spring 25/CS 3280/SecondC#/obj/Debug/net9.0/ref/SecondC#.dll
